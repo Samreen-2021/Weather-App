@@ -17,3 +17,4 @@ Software needed to run for this app
 - VS Code (as Editor)
 - Browser (as runtime environment)
 
+Live link: https://samreen-2021.github.io/Weather-App/
